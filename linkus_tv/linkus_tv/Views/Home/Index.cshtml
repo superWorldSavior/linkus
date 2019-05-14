@@ -1,0 +1,65 @@
+﻿
+@model IEnumerable<linkus_tv.carte>
+@{
+    ViewData["Title"] = "Home Page";
+    Layout = null;
+}
+<style>
+    /* Style the video: 100% width and height to cover the entire window */
+    #myVideo {
+        /*position: fixed;*/
+        right: 0;
+        bottom: 0;
+        min-width: 100%;
+        min-height: 100%;
+    }
+
+    /* Add some content at the bottom of the video/page */
+    .content {
+        position: fixed;
+        bottom: 0;
+        background: #f1f1f1;
+        color: #f1f1f1;
+        width: 25%;
+        padding: 20px;
+    }
+</style>
+<!-- The video -->
+<video autoplay muted loop id="myVideo">
+
+
+    <source src="~/video/background.mp4" type="video/mp4" />
+
+</video>
+
+
+
+
+<div class="content">
+    <table>
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Boisson)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Prix)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Boisson)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Prix)
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

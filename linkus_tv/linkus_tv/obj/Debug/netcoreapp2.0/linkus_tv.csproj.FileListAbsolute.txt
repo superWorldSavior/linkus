@@ -1,0 +1,11 @@
+C:\Users\erpes\source\repos\linkus_tv\linkus_tv\obj\Debug\netcoreapp2.0\linkus_tv.csproj.CoreCompileInputs.cache
+C:\Users\erpes\source\repos\linkus_tv\linkus_tv\obj\Debug\netcoreapp2.0\linkus_tv.AssemblyInfoInputs.cache
+C:\Users\erpes\source\repos\linkus_tv\linkus_tv\obj\Debug\netcoreapp2.0\linkus_tv.AssemblyInfo.cs
+C:\Users\erpes\source\repos\linkus_tv\linkus_tv\bin\Debug\netcoreapp2.0\linkus_tv.deps.json
+C:\Users\erpes\source\repos\linkus_tv\linkus_tv\bin\Debug\netcoreapp2.0\linkus_tv.runtimeconfig.json
+C:\Users\erpes\source\repos\linkus_tv\linkus_tv\bin\Debug\netcoreapp2.0\linkus_tv.runtimeconfig.dev.json
+C:\Users\erpes\source\repos\linkus_tv\linkus_tv\bin\Debug\netcoreapp2.0\linkus_tv.dll
+C:\Users\erpes\source\repos\linkus_tv\linkus_tv\obj\Debug\netcoreapp2.0\linkus_tv.csprojAssemblyReference.cache
+C:\Users\erpes\source\repos\linkus_tv\linkus_tv\bin\Debug\netcoreapp2.0\linkus_tv.pdb
+C:\Users\erpes\source\repos\linkus_tv\linkus_tv\obj\Debug\netcoreapp2.0\linkus_tv.dll
+C:\Users\erpes\source\repos\linkus_tv\linkus_tv\obj\Debug\netcoreapp2.0\linkus_tv.pdb
